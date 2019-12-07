@@ -1,0 +1,14 @@
+{
+  "name": "docker-install",
+  "version": "1.0.0",
+  "description": "A quick installation script for docker",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "docker-install": "./cli.sh"
+  },
+  "author": "Robbie Cook",
+  "license": "MIT"
+}
